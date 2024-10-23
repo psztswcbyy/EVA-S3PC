@@ -1,2 +1,3 @@
 # Secure-3-party-Computation-Framework
-A de-centralized framework for secure multi-party matrix computation, included varies of secure 2-party operator and 3-party operators, well applied for scientific computing and machine learning.
+A decentralized framework for secure multi-party matrix computation, including various secure 2-party and 3-party operators, which is well-suited for scientific computing and machine learning.
+
